@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/overthinker_tk" target="blank"><img src="https://img.shields.io/twitter/follow/overthinker_tk?logo=twitter&style=for-the-badge" alt="overthinker_tk" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning-Standford University(Online Course)**
+- 🌱 I’m currently learning **Machine Learning-Stanford University(Online Course)**
 
 - 💬 Ask me about **Python, Data Science, and Machine Learning**
 
