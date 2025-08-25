@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer & Cloud Engineer</b> 🚀 | <b>ICT Graduate</b> 🎓  
+  <b>Full-Stack Developer </b> 🚀 | <b>ICT Honours Graduate</b> 🎓  
 </p>
 
 ---
