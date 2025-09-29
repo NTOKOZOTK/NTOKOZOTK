@@ -38,7 +38,7 @@ I build scalable apps that solve real-world problems.
 
 | 🌍 Project | 🔧 What I Did | 🛠️ Tech |
 |------------|---------------|---------|
-| **Logistics Application** | React Frontend development & design, Authentication and Authorization, System Management module | Node.js, Express, PostgreSQL |
+| **Logistics Application** | React Frontend development & design, Authentication and Authorization, Developed all functions to manage company information and data related to the main Processes of the system | Node.js, Express, PostgreSQL |
 | **Event Management** | Utilised AWS Simple Email Service (SES) for ticket email notification | Node.js, Express, PostgreSQL, OAuth 2.0, AWS |
 | **Research Management** | Authorization and Authentication, Reporting/approval workflows | Node.js, Express, PostgreSQL |
 
